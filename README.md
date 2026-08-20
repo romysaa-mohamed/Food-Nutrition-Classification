@@ -91,7 +91,6 @@ All missing values were handled inside the preprocessing pipeline (median imputa
 
 The dataset is noticeably imbalanced toward `Moderate`, which is why `class_weight='balanced'` was used across most models.
 
-> ⚠️ The raw CSV is **not included** in this repository. Download it separately and place it under `data/`.
 
 ---
 
