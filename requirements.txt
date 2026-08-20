@@ -6,3 +6,4 @@ scikit-learn
 jupyter
 IPython.display
 ipywidgets
+voila
