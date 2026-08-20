@@ -274,9 +274,11 @@ The final section of the notebook includes a built-in UI (via `ipywidgets`) that
 
 This project was built collaboratively by:
 
-- **[Team Member 1 Name]** — [GitHub](https://github.com/<username>)
-- **[Team Member 2 Name]** — [GitHub](https://github.com/<username>)
-- **[Team Member 3 Name]** — [GitHub](https://github.com/<username>)
+- **[Romysaa Mohamed Qotb]** 
+- **[Mazen Hussein AL_Borkan]** 
+- **[Nour EL_Din Abdel Khalek Khalil]**
+- **[Bavly Nashaat Nagah]** 
+- **[Mahmoud Abdel Hamid Abdel Rahman]** 
 
 _Replace the placeholders above with your team's actual names and GitHub profiles._
 
