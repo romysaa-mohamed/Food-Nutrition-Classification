@@ -4,6 +4,5 @@ matplotlib
 seaborn
 scikit-learn
 jupyter
-IPython.display
 ipywidgets
 voila
