@@ -1,4 +1,4 @@
-#🥗 Nutrition Health Classification
+##🥗 Nutrition Health Classification
 
 A machine learning project that classifies food products into three health categories — Healthy ✅, Moderate ⚠️, and Unhealthy ❌ — based on their nutritional values (calories, fat, sugar, protein, etc.) and metadata (food category, food type).
 
