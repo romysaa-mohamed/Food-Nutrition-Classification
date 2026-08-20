@@ -1,4 +1,4 @@
-[REPORT .html](https://github.com/user-attachments/files/31260176/REPORT.1.md)
+[REPORT .md](https://github.com/user-attachments/files/31260176/REPORT.1.md)
 
 # 📑 Technical Report: Nutrition Health Classification
 
