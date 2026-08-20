@@ -276,10 +276,10 @@ The final section of the notebook includes a built-in UI (via `ipywidgets`) that
 
 This project was built collaboratively by:
 
-- **Romysaa Mohame Qotb** 
+- **Romysaa Mohamed Qotb** 
 - **Mazen Hussein AL-Borkan** 
 - **Nour EL-Din Abdel Khalel Khalil**
-- **Bavly Nashaat Nagah**
+- **Bavly Nashaat Nageh**
 - **Mohmoud Abdel Hamid Abdel Rahman** 
 
 
