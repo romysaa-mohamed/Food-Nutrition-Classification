@@ -278,7 +278,7 @@ This project was built collaboratively by:
 
 - **Romysaa Mohamed Qotb** 
 - **Mazen Hussein AL-Borkan** 
-- **NourEL-Din Abdel-Khalek Zahran**
+- **NourEl-Din Abdel-Khalek Zahran**
 - **Bavly Nashaat Nageh**
 - **Mahmoud Abdel Hamid Abdel Rahman** 
 
