@@ -14,7 +14,7 @@ This is a **multi-class classification** problem, solved end-to-end: from raw da
 - **Source:** `comprehensive_foods_usda.csv`
 - **Original shape:** 40,000 rows × 24 columns
 - **Shape after cleaning:** 40,000 rows × 14 columns
-- **Duplicate rows found:** 0
+- **Duplicate rows found:** 7300
 
 **Columns dropped** as not useful for modeling:
 `fdc_id`, `food_name`, `data_type`, `brand_owner`, `brand_name`, `ingredients`, `household_serving`, `serving_size`, `serving_unit`, `vitamin_c_mg`
@@ -31,7 +31,7 @@ This is a **multi-class classification** problem, solved end-to-end: from raw da
 
 ## 3. Data Cleaning
 
-1. **Duplicates** — Checked with `duplicated().sum()`; **0 duplicate rows** were found, so no rows were removed on this basis.
+1. **Duplicates** — Checked with `duplicated().sum()`; **7300 duplicate rows** were found, so rows were removed on this basis.
 2. **Fully-null columns** — Checked for columns with 100% missing values; none were found.
 3. **Irrelevant columns** — Identifier and free-text columns (brand, ingredients, serving metadata, `vitamin_c_mg`) were dropped as they carry no direct predictive signal or were mostly missing.
 4. **Invalid negative values** — Negative values were found in `carbs_g` (physically impossible for a nutrient amount) and were clipped to `0`.
