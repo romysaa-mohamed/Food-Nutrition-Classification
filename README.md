@@ -100,7 +100,7 @@ The dataset is noticeably imbalanced toward `Moderate`, which is why `class_weig
 1. **Data Loading** — Load the raw CSV with Pandas.
 2. **Data Inspection** — Shape, dtypes, missing values, duplicates.
 3. **Data Cleaning**
-   - Remove duplicate rows (0 found).
+   - Remove duplicate rows (7300 found).
    - Drop irrelevant / identifier columns.
    - Fix invalid negative values (negative `carbs_g` → clipped to 0).
    - Check for infinite values.
